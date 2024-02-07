@@ -1,0 +1,10 @@
+faiss_claude_index/
+faiss_titan_index/
+llama_claude_index/
+llama_titan_index/
+__pycache__/
+.ipynb_checkpoints/
+data/
+dependencies/
+utils/__pycache__/
+.DS_STORE
